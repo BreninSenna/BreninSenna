@@ -1,4 +1,3 @@
-Sim — dá pra deixar bem diferente do seu README, com uma pegada mais **moderna, minimalista e pessoal**, usando banner, cards e uma apresentação mais direta.
 
 <div align="center">
 
